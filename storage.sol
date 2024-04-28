@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.17;
 contract EmployeeStorage {
     // Declare private state variables to store employee data
